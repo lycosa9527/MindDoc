@@ -1,0 +1,27 @@
+2025-08-02 20:06:11 | MindDoc | INFO | log_system_health:192 | System Health | Flask App | Status: Running | Details: {'debug_mode': False, 'log_level': 'INFO', 'upload_folder': 'app/static/uploads', 'max_content_length': 16777216}
+2025-08-02 20:11:29 | MindDoc | INFO | log_system_health:199 | System Health | Flask App | Status: Running | Details: {'debug_mode': False, 'log_level': 'INFO', 'upload_folder': 'app/static/uploads', 'max_content_length': 16777216}
+2025-08-02 20:13:22 | MindDoc | INFO | log_info:118 | MindDoc logging system initialized
+2025-08-02 20:13:22 | MindDoc | INFO | log_info:118 | Log file: C:\Users\roywa\Documents\Cursor Projects\MindDoc\logs\app.log
+2025-08-02 20:13:22 | MindDoc | INFO | log_info:118 | Log level: INFO
+2025-08-02 20:13:22 | MindDoc | INFO | log_info:118 | Application initialized successfully
+2025-08-02 20:13:22 | MindDoc | INFO | log_system_health:199 | System Health | Flask App | Status: Running | Details: {'debug_mode': False, 'log_level': 'INFO', 'upload_folder': 'app/static/uploads', 'max_content_length': 16777216}
+2025-08-02 20:20:58 | MindDoc | INFO | log_info:118 | MindDoc logging system initialized
+2025-08-02 20:20:58 | MindDoc | INFO | log_info:118 | Log file: C:\Users\roywa\Documents\Cursor Projects\MindDoc\logs\app.log
+2025-08-02 20:20:58 | MindDoc | INFO | log_info:118 | Log level: INFO
+2025-08-02 20:20:58 | MindDoc | INFO | log_info:118 | Application initialized successfully
+2025-08-02 20:20:58 | MindDoc | INFO | log_system_health:199 | System Health | Flask App | Status: Running | Details: {'debug_mode': False, 'log_level': 'INFO', 'upload_folder': 'app/static/uploads', 'max_content_length': 16777216}
+2025-08-02 20:22:57 | MindDoc | INFO | log_info:118 | MindDoc logging system initialized
+2025-08-02 20:22:57 | MindDoc | INFO | log_info:118 | Log file: C:\Users\roywa\Documents\Cursor Projects\MindDoc\logs\app.log
+2025-08-02 20:22:57 | MindDoc | INFO | log_info:118 | Log level: INFO
+2025-08-02 20:22:57 | MindDoc | INFO | log_info:118 | Application initialized successfully
+2025-08-02 20:22:57 | MindDoc | INFO | log_system_health:199 | System Health | Flask App | Status: Running | Details: {'debug_mode': False, 'log_level': 'INFO', 'upload_folder': 'app/static/uploads', 'max_content_length': 16777216}
+2025-08-02 20:23:44 | MindDoc | INFO | log_info:118 | MindDoc logging system initialized
+2025-08-02 20:23:44 | MindDoc | INFO | log_info:118 | Log file: C:\Users\roywa\Documents\Cursor Projects\MindDoc\logs\app.log
+2025-08-02 20:23:44 | MindDoc | INFO | log_info:118 | Log level: INFO
+2025-08-02 20:23:44 | MindDoc | INFO | log_info:118 | Application initialized successfully
+2025-08-02 20:23:44 | MindDoc | INFO | log_system_health:199 | System Health | Flask App | Status: Running | Details: {'debug_mode': False, 'log_level': 'INFO', 'upload_folder': 'app/static/uploads', 'max_content_length': 16777216}
+2025-08-02 20:24:38 | MindDoc | INFO | log_info:118 | MindDoc logging system initialized
+2025-08-02 20:24:38 | MindDoc | INFO | log_info:118 | Log file: C:\Users\roywa\Documents\Cursor Projects\MindDoc\logs\app.log
+2025-08-02 20:24:38 | MindDoc | INFO | log_info:118 | Log level: INFO
+2025-08-02 20:24:38 | MindDoc | INFO | log_info:118 | Application initialized successfully
+2025-08-02 20:24:38 | MindDoc | INFO | log_system_health:199 | System Health | Flask App | Status: Running | Details: {'debug_mode': False, 'log_level': 'INFO', 'upload_folder': 'app/static/uploads', 'max_content_length': 16777216}
