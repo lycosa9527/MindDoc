@@ -4,6 +4,7 @@
 [![Flask](https://img.shields.io/badge/Flask-3.1.1-green.svg)](https://flask.palletsprojects.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-v0.1-orange.svg)](https://github.com/lycosa9527/MindDoc/releases)
+[![wakatime](https://wakatime.com/badge/user/60ba0518-3829-457f-ae10-3eff184d5f69/project/9b6fcbf9-0cc1-49e2-8d74-6d8e437474f9.svg)](https://wakatime.com/badge/user/60ba0518-3829-457f-ae10-3eff184d5f69/project/9b6fcbf9-0cc1-49e2-8d74-6d8e437474f9)
 
 > **MindDoc** is a powerful Flask-based document analysis application that provides real-time AI-powered analysis and editing capabilities for Word documents. Built with modern web technologies and enhanced with natural language processing.
 
